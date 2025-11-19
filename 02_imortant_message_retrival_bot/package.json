@@ -1,0 +1,15 @@
+{
+  "name": "02_imortant_message_retrival_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "auto_forward_bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
